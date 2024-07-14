@@ -1,0 +1,1 @@
+import{_ as e,o,c as a,a as t}from"./app.60406980.js";const c={},s={viewBox:"0 0 24 24"},_=t("path",{d:"M11.29 8.71L6.7 13.3a.996.996 0 1 0 1.41 1.41L12 10.83l3.88 3.88a.996.996 0 1 0 1.41-1.41L12.7 8.71a.996.996 0 0 0-1.41 0z",fill:"currentColor"},null,-1),n=[_];function r(l,d){return o(),a("svg",s,n)}var f=e(c,[["render",r],["__file","expand.vue"]]);export{f as default};
